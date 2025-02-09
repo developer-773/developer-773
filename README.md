@@ -1,4 +1,5 @@
-# Hi there! 👋 Welcome to My GitHub Profile My name is Mukhammadbek
+# Hi there! 👋 Welcome to My GitHub Profile
+# My name is Mukhammadbek
 
 I'm a passionate **Front-End Developer** with a strong focus on crafting scalable, user-friendly, and performant web applications. My expertise lies in modern front-end technologies and frameworks, along with a deep interest in state management and performance optimization.
 
