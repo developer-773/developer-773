@@ -23,7 +23,7 @@ I'm a passionate **Front-End Developer** with a strong focus on crafting scalabl
 e-optimized dashboard built with Vite, Ant Design, and advanced state management.
 
 ## 📫 Let's Connect
-- **Email:** [samsunggalaxy7006@gmail.com](mailto:samsunggalaxy7006@gmail.com)  
+- **Email:** [muhammadbek.jurabekov@gmail.com](mailto:muhammadbek.jurabekov@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/mukhammadbek-jurabekov](https://www.linkedin.com/in/mukhammadbek-jurabekov)  
 
 ## 🎯 Open to Collaborations
